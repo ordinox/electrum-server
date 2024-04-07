@@ -1,0 +1,1 @@
+electrs --log-filters INFO --timestamp --db-dir /tmp/electrs-db --electrum-rpc-addr=127.0.0.1:50001 --network=regtest --cookie-file=electrs --log-filters INFO --timestamp --db-dir /tmp/electrs-db --electrum-rpc-addr=127.0.0.1:50001 --network=regtest --cookie-file=/Users/ashwinprasad/Library/Application\ Support/Bitcoin/regtest/.cookie
